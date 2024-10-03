@@ -1,4 +1,4 @@
-# Even Small Correlation and Diversity Shifts Pose Dataset-Bias Issues
+# Even Small Correlation and Diversity Shifts Pose Dataset-Bias Issues [[paper]](https://www.sciencedirect.com/science/article/pii/S0167865524000333)
 
 This code accompany our work, providing access to the datasets used and to all results reported through wandb.
 
@@ -11,3 +11,18 @@ All trainings were logged into wandb, which we share reports for [synth-synth](h
 
 ## Running the code
 If you want to run the code, we also provide all the scripts and code used. See the bash scripts to run all synth-synth and synth-real experiments. 
+
+## Citation
+If you find our work useful for your own research, we would appreciate using the following citations:
+
+```
+@article{bissoto2024even,
+  title={Even small correlation and diversity shifts pose dataset-bias issues},
+  author={Bissoto, Alceu and Barata, Catarina and Valle, Eduardo and Avila, Sandra},
+  journal={Pattern Recognition Letters},
+  volume={179},
+  pages={87--93},
+  year={2024},
+  publisher={Elsevier}
+}
+```
